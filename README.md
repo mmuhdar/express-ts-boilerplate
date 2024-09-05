@@ -67,3 +67,8 @@ my-express-ts-app/
 ├── tsconfig.json           # Konfigurasi TypeScript
 ├── package.json            # Konfigurasi npm
 └── README.md               # Dokumentasi proyek
+```
+
+## 📝 Lisensi
+
+Proyek ini menggunakan lisensi [MIT](LICENSE).

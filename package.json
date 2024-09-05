@@ -7,10 +7,19 @@
     "start": "node dist/index.js",
     "dev": "nodemon src/index.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "express",
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Muhammad Muhdar",
+  "license": "MIT",
+  "description": "Boilerplate for Express with TypeScript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmuhdar/express-ts-boilerplate.git"
+  },
+  "homepage": "https://github.com/mmuhdar/express-ts-boilerplate#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
